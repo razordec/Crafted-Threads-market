@@ -47,7 +47,7 @@ git clone https://github.com/razordec/Crafted-Threads-market.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/crafted_threads).
+If you want to contact with me you can reach me at [Twitter](https://www.instagram.com/crafted_threads).
 
 ### License
 
