@@ -54,7 +54,7 @@ Blogs
 
 Contact Us
 
-69 Halsey St, Ny 10002, New York, United States
+Garia street, Kanage road, Port Moresby, Papua New Guinea
 
 info@bohava-group.com
 
@@ -213,12 +213,12 @@ Explore our blog
 View All
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
-alt = Unique products that will impress your home in 2022.
+alt = Curated designs that define your modern lifestyle.
 
 Read more
 <ion-icon name="add-outline" aria-hidden="true"></ion-icon>
 
-Unique products that will impress your home in 2022.
+Curated designs that define your modern lifestyle.
 
 September 14, 2026
 Admin
@@ -258,9 +258,8 @@ Crafted Threads, Port Moresby, Papua New Guinea 2026
 <ion-icon name="call-sharp" aria-hidden="true"></ion-icon>
 +675 7192 1809
 
-<ion-icon name="logo-youtube"></ion-icon>
-<ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-tiktok"></ion-icon>
 
 Help & Information
