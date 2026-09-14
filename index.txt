@@ -1,5 +1,5 @@
-Woodex - Get Quality Furniture
-This is an eCommerce html template made by codewithsadee
+Crafted Threads - Get Quality, Breathe Quality
+Premium Handicraft eCommerce Website
 
 
 
@@ -10,7 +10,7 @@ placeholder = Search Anything...
 
 <ion-icon name="search-outline" aria-hidden="true"></ion-icon>
 
-Woodex
+Crafted Threads
 
 aria-label = user
 <ion-icon name="person-outline" aria-hidden="true"></ion-icon>
@@ -37,9 +37,13 @@ Language
 English
 French
 Arabric
+Tokpisin
+Motu
 
 Currency
+PGK
 USD - US Dollar
+AUD - Aussie Dollar
 Euro
 Pound
 
@@ -52,15 +56,16 @@ Contact Us
 
 69 Halsey St, Ny 10002, New York, United States
 
-support.center@woodex.co
+info@bohava-group.com
 
-(0000) 1235 567890
+(+675) 7192 1809
 
 Follow US On Socials
 
+<ion-icon name="logo-youtube"></ion-icon>
 <ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-tumblr"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-tiktok"></ion-icon>
 
 
 
@@ -70,15 +75,15 @@ alt = Art Deco Home
 
 Art Deco Home
 
-Decoration
+Handicrafts
 
-Helen Chair
+Blouses & Dresses
 
-Vase Of Flowers
+Fabrics
 
-Wood Eggs
+Clothing
 
-Table Wood Pine
+Artifacts
 
 Furniture
 
@@ -86,11 +91,11 @@ Furniture
 
 #---------- ABOUT ----------#
 
-Woodex Store
+Crafted Threads Store
 
 When you start with a portrait and search for a pure form, a clear volume, through successive eliminations, you arrive inevitably at the egg. Likewise, starting with the egg and following the same process in reverse, one finishes with the portrait.
 
-alt = Woodex promo
+alt = Crafted Threads promo
 
 aria-label = play video
 
@@ -103,7 +108,7 @@ aria-label = play video
 Popular Products
 
 All Products
-Accessory
+Handicrafts
 Decoration
 Furniture
 
@@ -123,81 +128,81 @@ Sale
 -10%
 
 Animi Dolor Pariatur
-$19.00
-$10.00
+K19.00
+K10.00
 
 filter = accessory
 Out of Stock
 Art Deco Home
-$30.00
+K30.00
 
 filter = decoration
 Artificial potted plant
-$40.00
+K40.00
 
 filter = accessory
 Dark Green Jug
-$17.10
+K17.10
 
 filter = accessory
 Drinking Glasses
-$21.00
+K21.00
 
 filter = furniture
 Helen Chair
-$69.50
+K69.50
 
 filter = accessory
 High Quality Glass Bottle
-$30.10
+K30.10
 
 filter = accessory
 Living Room & Bedroom Lights
-$45.00
+K45.00
 
 filter = furniture
 Nancy Chair
-$90.00
+K90.00
 
 filter = furniture
 Simple Chair
-$40.00
+K40.00
 
 filter = decoration
 Smooth Disk
-$46.00
+K46.00
 
 filter = furniture
 Table Black
-$67.00
+K67.00
 
 filter = furniture
 Table Wood Pine
-$50.00
+K50.00
 
 filter = accessory
 Teapot with black tea
-$25.00
+K25.00
 
 filter = decoration
 Unique Decoration
-$15.00
+K15.00
 
 filter = decoration
 Vase Of Flowers
-$77.00
+K77.00
 
 filter = decoration
 Wood Eggs
-$19.00
+K19.00
 
 filter = decoration
 Wooden Box
-$27.00
+K27.00
 
 filter = accessory
 Wooden Cups
-$29.00
+K29.00
 
 
 
@@ -215,17 +220,17 @@ Read more
 
 Unique products that will impress your home in 2022.
 
-November 27, 2022
+September 14, 2026
 Admin
 in deco
 
 Navy Blue & White Striped Area Rugs
 
-November 25
+September 15
 
-Woodex White Coated Staircase Floating
+Crafted Threads White Coated Staircase Floating
 
-November 18
+September 18
 
 
 
@@ -245,17 +250,18 @@ aria-label = subscribe
 
 #---------- FOOTER ----------#
 
-Woodex
+Crafted Threads
 
 <ion-icon name="location-sharp" aria-hidden="true"></ion-icon>
-Woodex, Chicago, USA 2022
+Crafted Threads, Port Moresby, Papua New Guinea 2026
 
 <ion-icon name="call-sharp" aria-hidden="true"></ion-icon>
-+1234567890
++675 7192 1809
 
+<ion-icon name="logo-youtube"></ion-icon>
 <ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-tumblr"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-tiktok"></ion-icon>
 
 Help & Information
 Help & Contact Us
@@ -277,7 +283,7 @@ Term & Condition
 Policy
 Map
 
-&copy; 2022 All Rights Reserved by codewithsadee.
+&copy; 2026 All Rights Reserved by Hasadee.
 
 
 
