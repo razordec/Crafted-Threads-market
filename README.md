@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/woodex)
+  ![GitHub repo size](https://github.com/razordec/)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/woodex?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/woodex?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
@@ -9,11 +9,11 @@
   <br />
   <br />
 
-  <h2 align="center">Woodex - Furniture eCommerce Website</h2>
+  <h2 align="center">Crafted Threads - Premium Handicraft eCommerce Website</h2>
 
-  Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Crafted Threads is a fully responsive ecommerce website where you find creativity to heritage, <br />Shop now.
 
-  <a href="https://codewithsadee.github.io/woodex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://www.bonhava-group.com/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,23 +31,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Woodex** locally, run this command on your git bash:
+To run **Crafted Threads** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/woodex.git
+sudo git clone https://github.com/razordec/Crafted-Threads-market.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/woodex.git
+git clone https://github.com/razordec/Crafted-Threads-market.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/crafted_threads).
 
 ### License
 
